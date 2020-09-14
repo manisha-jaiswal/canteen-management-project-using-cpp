@@ -1,7 +1,11 @@
 # canteen-management-project-using-cpp
 cpp project with file
 
-    This mini project in C++ CANTEEN MANAGEMENT allows you to perform simple canteen management operations like in a canteen. You can add,list, modify, search and delete canteen       related records. File handling and data structure concepts has been extensively used for almost all functions in this mini project.Canteen management in C++ is a console           application without graphics. The source code is complete and totally error-free. It is compiled in Code::Blocks with GCC compiler. The source code for this project is just       over 700 lines, and it is very simple to understand.
+    This mini project in C++ CANTEEN MANAGEMENT allows you to perform simple canteen management operations like in a canteen. 
+    You can add,list, modify, search and delete canteen related records. File handling and data structure concepts has been extensively 
+    used for almost all functions in this mini project.Canteen management in C++ is a console application without graphics. The source code
+    is complete and totally error-free. It is compiled in Code::Blocks with GCC compiler. The source code for this project is just over 700 
+    lines, and it is very simple to understand.
 
 The objective and goals of the proposed system are :
     
